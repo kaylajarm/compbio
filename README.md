@@ -1,1 +1,1 @@
-# compbio
+# compbio Some words I wrote on the compbio server
